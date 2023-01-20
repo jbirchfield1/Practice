@@ -8,4 +8,5 @@ using namespace std;
 
 int main() {
 	cout << "This is practice for the github assignment." << endl;
+	cout << "This shows I know how to commit a change for github" << endl;
 }
